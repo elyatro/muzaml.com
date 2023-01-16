@@ -26,7 +26,7 @@
 
       <!-- logo -->
       <div>
-        <img src="../assets/img/Asset 2.png">
+        <img src="../assets/img/logo.png">
       </div>
       <!-- -------- -->
       
