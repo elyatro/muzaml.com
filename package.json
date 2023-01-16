@@ -1,0 +1,21 @@
+{
+  "name": "ready-template-nuxt-v3",
+  "version": "2.0.0",
+  "author": "Fares - frs99.github.io",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "npm-install": "npm install",
+    "npm update": "npm update",
+    "update-package": "npm outdated"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.2.0",
+    "nuxt": "3.0.0",
+    "nuxt-icon": "^0.2.3"
+  }
+}

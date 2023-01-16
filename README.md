@@ -1,0 +1,1 @@
+# ready templated for NuxtJs3
