@@ -1,5 +1,6 @@
 <template>
   <HomeSectionA />
+  <HomeSectionB />
 </template>
 
 <script setup>

@@ -1,6 +1,6 @@
 <template>
-  <header class="bg-color01">
-    <section class="sticky h-20 px-6 xl:px-0 flex items-center justify-between max-w-7xl my-0 mx-auto">
+  <header class="sticky top-0 w-full bg-color01">
+    <section class="h-20 px-6 xl:px-0 flex items-center justify-between max-w-7xl my-0 mx-auto">
       <!-- icons responsive -->
       <div @click="Navbar" class="text-color03 block lg:hidden">
         <i ref="open" class="fi fi-bs-menu-burger text-4xl h-9 block"></i>

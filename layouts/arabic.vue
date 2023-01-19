@@ -1,7 +1,9 @@
 <template>
   <div class="page">
     <Header />
-    <slot />
+    <main class="max-w-7xl px-6 xl:px-0 my-0 mx-auto">
+      <slot />
+    </main>
     <Footer />
     <Loading />
   </div>
