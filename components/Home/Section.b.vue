@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="py-20">
     <OtherTitle info="خدماتنا" />
-    <section class="lg:grid lg:grid-cols-3 lg:place-items-center	">
+    <div class="lg:grid lg:grid-cols-3 lg:place-items-center">
       <OtherBoxA 
         title="استشارات" 
         info="نقدم استشارات مجانية واقتراحات 
@@ -34,12 +34,6 @@
           </NuxtLink>
         </div>
       </div>
-    </section>
+    </div>
   </div>
 </template>
-
-<style scoped>
-.t{
-      white-space: pre-line;
-}
-</style>
