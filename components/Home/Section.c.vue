@@ -73,8 +73,8 @@
         <div>
           <img class="w-24 max-w-none" src="../../assets/img/crown.png">
         </div>
-        <div class="lg:mr-3 w-full">
-          <h2 class="text-color01 text-2xl font-medium mt-3 lg:mt-0">حقق اهدافك الان</h2>
+        <div class="lg:mr-3 w-full border-r-8 border-color03 pr-2">
+          <h2 class="text-color01 text-2xl font-bold mt-3 lg:mt-0">حقق اهدافك الان</h2>
           <NuxtLink class="bg-color01 mt-3 w-full inline-block text-center text-color03 py-1 rounded-sm font-medium" to="#">تواصل معنا</NuxtLink>
         </div>
       </div>
