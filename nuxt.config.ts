@@ -28,7 +28,7 @@ export default defineNuxtConfig({
     buildAssetsDir: 'nuxt',
   },
   css: [
-    // '@/assets/css/index.css',
+    '@/assets/css/index.css',
     // '@/assets/css/blog.css'
   ],
   modules: [
