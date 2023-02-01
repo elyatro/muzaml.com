@@ -39,9 +39,9 @@ export default {
   data() {
     return {
       navbar: [
-        { name: "الرئيسية", link: "#" },
-        { name: "خدماتنا", link: "#" },
-        { name: "مايميزنا", link: "#" },
+        { name: "الرئيسية", link: "/" },
+        { name: "خدماتنا", link: "#services" },
+        { name: "مايميزنا", link: "#momayzat" },
         { name: "اعمالنا", link: "#" },
         // { name: "", link: "" },
       ]

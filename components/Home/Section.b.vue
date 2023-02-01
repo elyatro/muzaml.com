@@ -1,5 +1,5 @@
 <template>
-  <div class="py-20">
+  <div id="services" class="py-20">
     <OtherTitle info="خدماتنا" />
     <div class="lg:grid lg:grid-cols-3 lg:place-items-center">
       <OtherBoxA 

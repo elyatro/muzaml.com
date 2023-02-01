@@ -1,6 +1,5 @@
 <template>
-  <section 
-  class="h-vh flex items-center justify-center">
+  <section class="h-vh flex items-center justify-center">
     <div>
       <h1 class="text-center text-color01 font-bold text-3xl leading-relaxed lg:text-5xl lg:leading-normal">حقق النجاح في التحول الرقمي <br> لنشاطك</h1>
       <p class="text-center text-color01 text-sm mt-1 font-normal lg:text-lg">
